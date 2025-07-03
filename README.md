@@ -23,8 +23,8 @@ This Power BI project presents an in-depth analysis of the trends in cryptocurre
 - Provide insights for investors and enthusiasts to make data-informed decisions.
 
 ## 📷 Sample Dashboards
+![Dashboard image](https://github.com/user-attachments/assets/32c3e54a-378d-41ee-808e-6bd0edae9d0d)
 
-> Screenshots of key dashboards can be uploaded here to provide a preview of the project.
 
 ## 📁 How to Use
 
@@ -41,6 +41,7 @@ This Power BI project presents an in-depth analysis of the trends in cryptocurre
 ## 📚 Learnings
 
 - Enhanced skills in Power BI data modeling and dashboard creation.
+
 - Gained a deeper understanding of crypto market patterns and their visualization.
 - Worked with time-series data and performed meaningful business intelligence reporting.
 
